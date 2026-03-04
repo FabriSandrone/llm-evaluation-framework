@@ -1,3 +1,5 @@
+> Structured multi-metric framework for evaluating LLM responses with emphasis on calibration, risk scaling, and metric interaction.
+
 # LLM Evaluation Framework
 
 This repository contains a structured multi-metric framework I developed while independently studying large language model evaluation.
@@ -42,7 +44,6 @@ I am actively seeking opportunities in LLM evaluation, AI alignment, or model as
 - Learn from experienced practitioners
 - Continue refining evaluation methodologies in real-world settings
 
-> Structured multi-metric framework for evaluating LLM responses with emphasis on calibration, risk scaling, and metric interaction.
 
 Feedback and discussion are welcome.
 
